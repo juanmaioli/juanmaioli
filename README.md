@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/32233793?v=4" style="border-radius: 35%;"/>
+   <img align="center" width="200" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/32233793?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" style="border-radius: 35%;"/>
    <h3 align="center">Juan Maioli</h3>
 </p>
 

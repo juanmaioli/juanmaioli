@@ -1,9 +1,9 @@
 <p align="center" width="300">
    <img align="center" width="200" src="juanmaioli.png" style="border-radius: 35%;"/>
-   <h3 align="center">Juan Maioli</h3>
+   <h2 align="center"> 👨‍💻Juan Maioli 👨‍💻</h2>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Full Stack</strong> con 20 años experiencia.</p>
+## <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 20 años experiencia.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanmaioli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmaioli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/juanmaioli) 

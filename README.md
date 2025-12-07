@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="juanmaiolipulp.jpg" style="border-radius: 35%;"/>
+   <img align="center" width="200" src="juanmaiolipulp.jpg" style="border-radius: 50%;"/>
    <h2 align="center"> 👨‍💻Juan Maioli 👨‍💻</h2>
 </p>
 
